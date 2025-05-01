@@ -1,0 +1,175 @@
+    body{
+        margin:0px;
+        padding:0px;
+    }
+    header{
+        background-image: url("../images/399747.webp") ;
+        background-size:"cover";
+        background-repeat:no-repeat;
+        background-color: rgb(0,0,0,0.36);
+        background-blend-mode: multiply;
+       
+  
+            
+
+    }
+    .navigation{
+        background-color:rgb(0,0,0,0.6);
+    display:flex;
+    justify-content:space-between;
+    padding-top:10px;
+    color:rgb(255,128,0);
+    font-size:25px;
+    text-transform: uppercase;
+   
+
+    }
+    .navigation a{
+        text-decoration:none;
+        color:white;
+        padding:20px;
+        font-size:20px;
+    
+    }
+    .spacing{
+        padding-top:50px;
+        color:white;
+        font-size:20px;
+        
+    }
+    .born{
+        font-size: 20px;
+        padding-top:50px;
+        color:white;
+    }
+    .picture{
+        /*padding-top:130px;*/
+        width:200px;
+        height:300px;
+    }
+    .flex1{
+        display:flex;
+        justify-content: space-between;
+        padding-top:30px;
+        background-color:rgb(241,226,139,0.836);
+     
+    }
+    .div{
+     
+      padding-left:330px;
+      font-size:20px;
+      color:red;
+      
+      
+      
+    }
+    .padding{
+        padding-right:60px;
+        color:black;
+        padding-top:15px;
+    }
+    .gap{
+        padding-top:90px;
+    }
+    .color a{
+        color:blue;
+     
+    }
+    .link a{
+        color:#140784;
+        text-decoration: none;
+        font-weight:800;
+        font-size:30px;
+    }
+    .capitaL{
+        
+        font-size:20px;
+      
+        padding-top:0px;
+        /*text-align: center*/
+       
+        
+    }
+    .flex2{
+        display:flex;
+        /*justify-content: space-between;*/ 
+        
+        background-color: pink;
+        padding-bottom: 15px;
+        
+    }
+    .rohit{
+        padding-top:0px;
+        font-size:35px;
+        padding-left:40;
+
+    }
+    .color1{
+        color:#140784;
+        font-size:50px;
+        font-weight: 800;
+       padding-left:45px;
+       text-transform: uppercase;
+       padding-bottom:10px;
+       
+
+     
+    }
+    .align{
+        text-align: left;
+    }
+    .padding2{
+        padding-top:130px;
+         text-align:left;
+        display: flex;
+        background-color: rgba(0,0,0,0.4);
+    }
+    .roht{
+        font-size:20px;
+        padding-left:35px;
+        text-align: left;
+    }
+    .img{
+        text-align: right;
+    }
+    .div1{
+        display:flex;
+    }
+    .img1{
+        padding-left: 450px;
+        padding-top:150px;
+  
+    
+    }
+   .roht a{
+    text-decoration: none;
+   }
+   .family{
+    display:flex;
+    background-color:rgb(241,226,139,0.836);
+   }
+   .gapping{
+    padding-left:50px;
+    font-weight:800;
+    font-size: 20px;
+    color:#140784;
+    padding-top:15px;
+   }
+   .gap1{
+    font-size:25px;
+    color:red;
+    padding-left:50px;
+   }
+   .wife{
+    padding-left:10px;
+    font-size:20px;
+  
+   }
+   .grid{
+    display:flex;
+    background-color:pink;
+    padding-top:30px;
+   }
+   .grid ul{
+    padding-top:20px;
+   }
